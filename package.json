@@ -11,7 +11,7 @@
     "url": "git+https://github.com/apiverve/stockmarketopentimes-API.git"
   },
   "keywords": [
-    "stock market open times"," stock market open times api"," stock market open times tool"," stock market open times software"," stock market open times service"," stock market open times library"," stock market open times sdk"," stock market open times code"," stock market open times script"," stock market open times program"," stock market open times application"," stock market open times app"," stock market open times utility"," stock market open times helper"," stock market open times helper tool"," stock market open times helper software"," stock market open times helper service"," stock market open times helper library"," stock market open times helper sdk"," stock market open times helper code"," stock market open times helper script"," stock market open times helper program"," stock market open times helper application"," stock market open times helper app"," stock market open times helper utility"," stock market open times helper"
+    "stock market open times","stock market open times api","stock market open times tool","stock market open times software","stock market open times service"
   ],
   "author": "APIVerve <hello@apiverve.com> (http://apiverve.com/)",
   "license": "MIT",
@@ -27,6 +27,6 @@
   "dependencies": {
     "node-fetch": "3.3.2",
     "promise": "^7.1.1",
-    "request": "^2.69.0"
+    "axios": "^0.15.3"
   }
 }
