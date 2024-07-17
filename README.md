@@ -74,9 +74,9 @@ api.execute(query, function (error, data) {
     "timezone": "America/New_York",
     "exchange": "NYSE",
     "fullName": "New York Stock Exchange",
-    "isOpen": false,
-    "openingTime": "2024-05-12 09:30:00",
-    "closingTime": "2024-05-12 16:00:00"
+    "isOpen": true,
+    "openingTime": "2024-07-17 09:30:00",
+    "closingTime": "2024-07-17 16:00:00"
   }
 }
 ```
